@@ -3,7 +3,9 @@
     <q-header elevated>
       <q-toolbar>
         <q-toolbar-title class="text-center">
-          Pokedex
+          <P class="q-mb-none">
+            QUEM É ESSE POKEMON?
+          </P>
         </q-toolbar-title>
       </q-toolbar>
     </q-header>

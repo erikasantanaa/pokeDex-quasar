@@ -32,7 +32,9 @@
       @click="getPokemon(id - 1)"
       >
     <q-tooltip>
+      <span>
         Anterior
+      </span>
       </q-tooltip>
     </q-icon>
     <q-icon
@@ -43,7 +45,9 @@
       @click="getPokemon(id + 1)"
       >
     <q-tooltip>
+      <span>
         Próxima
+      </span>
       </q-tooltip>
     </q-icon>
   </div>
